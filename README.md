@@ -1,13 +1,10 @@
 # Regression Algorithms for Learning & Its Application on Cryptocurrency Markets
 
 Syed Maesum Hussain Zaidi
-101052383
-Final Year Project 
-Royal Holloway, University of London
 
 ## Project Overview
 
-This project is my Final Year Project and focuses on using regression-based and other machine learning algorithms to predict cryptocurrency price movements. The system downloads historical market data from Yahoo Finance, engineers technical features, evaluates multiple models using walk-forward validation, and produces both next day price predictions and historical performance comparison between the algorithms.
+This project focuses on using regression based and other machine learning algorithms to predict cryptocurrency price movements. The system downloads historical market data from Yahoo Finance, engineers technical features, evaluates multiple models using walk-forward validation, and produces both next day price predictions and historical performance comparison between the algorithms.
 
 The project supports both a console-based version and a graphical user interface (GUI).
 
