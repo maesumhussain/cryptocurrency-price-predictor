@@ -23,7 +23,7 @@ The algorithms included in the model are:
 
 The final runnable code for this project is located in:
 
-`PROJECT/Programming Code/Final Code/`
+`/Programming Code/Final Code/`
 
 ## How It Works 
 
@@ -88,7 +88,7 @@ This project uses the following Python imports.
 
 - First, you would need to make sure you have an internet connection because the model requires the data to be downloaded from Yahoo Finance to make the prediction and performance comparison.
 
-- Secondly, you would clone the repository from git and then you would navigate to the correct folder `PROJECT/Programming Code/Final Code/`. 
+- Secondly, you would clone the repository from git and then you would navigate to the correct folder `/Programming Code/Final Code/`. 
 
 - Thirdly, you would need to install the required external libraries which have been listed above. The command you need to run in your terminal to install these would look something like this:  
 pip install numpy pandas matplotlib yfinance scikit-learn PyQt5
