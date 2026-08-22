@@ -2,6 +2,14 @@
 
 Syed Maesum Hussain Zaidi
 
+## 🎥 Project Demo
+
+Watch the full demonstration of the Cryptocurrency Price Predictor:
+
+[![Watch the Project Demo](https://img.youtube.com/vi/EEWg8iFt7pI/maxresdefault.jpg)](https://youtu.be/EEWg8iFt7pI)
+
+**Click the image above to watch the full demonstration on YouTube.**
+
 ## Project Overview
 
 This project focuses on using regression based and other machine learning algorithms to predict cryptocurrency price movements. The system downloads historical market data from Yahoo Finance, engineers technical features, evaluates multiple models using walk-forward validation, and produces both next day price predictions and historical performance comparison between the algorithms.
